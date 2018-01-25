@@ -1,3 +1,4 @@
 # Algorithms-Part-I
-Implementation of percolation, deques and randomized queues, collinear points, 8 puzzle, and kd-trees algorithms
+January 2018 - May 2018
 
+Guide: https://www.coursera.org/learn/algorithms-part1
